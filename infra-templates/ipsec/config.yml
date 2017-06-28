@@ -1,0 +1,6 @@
+name: Rancher IPsec
+version: dev
+category: Networking
+labels:
+  io.rancher.certified: rancher
+  io.rancher.orchestration.supported: 'cattle,mesos,swarm,kubernetes'
